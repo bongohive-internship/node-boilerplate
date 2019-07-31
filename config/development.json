@@ -1,0 +1,7 @@
+{
+
+"name": "Developement",
+"database": "mongodb://localhost:27017/development",
+"port": 3000,
+"DEV_API_KEY":"893830ukfiseyu7575"
+}

@@ -1,0 +1,6 @@
+{
+
+    "name": "Staging",
+    "database": "mongodb://localhost:27017/staging",
+    "port": 3000
+}
